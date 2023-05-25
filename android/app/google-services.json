@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811749995216",
+    "project_id": "webrtcproj-d9e8a",
+    "storage_bucket": "webrtcproj-d9e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811749995216:android:3b4b999e7360e9efada4d5",
+        "android_client_info": {
+          "package_name": "com.example.webrtcproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811749995216-ukqjjjpsj52m21q0ddj6c9hti308fp0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx9-7goLq79U5ab_1GenQ888F1tDHgkbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811749995216-ukqjjjpsj52m21q0ddj6c9hti308fp0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
